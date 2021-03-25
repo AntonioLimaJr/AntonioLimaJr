@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AntonioLimaJr
+- 👀 I’m interested in JavaScript, react, nodejs, nextjs
+- 🌱 I’m currently learning Typescript 
